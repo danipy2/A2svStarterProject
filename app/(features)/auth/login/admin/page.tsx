@@ -112,7 +112,7 @@ const Login = () => {
           {formError && <div className="text-red-500 text-sm">{formError}</div>}
           {isError && error && (
             <div className="text-red-500 text-sm">
-              {"incorrect email or password"}
+              {"Incorrect email or password "}
             </div>
           )}
           <button
