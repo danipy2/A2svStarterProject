@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# A2SV Application Platform
+
+This is a web platform built to manage and facilitate applications, interviews, and selection processes for the A2SV program — a tech training and placement initiative aimed at empowering talented individuals.
+
+---
+
+## Purpose
+
+- Provide a centralized place for applicants to submit applications.
+- Enable interviewers and managers to review applications and make decisions.
+- Help streamline the recruitment workflow for the A2SV program.
+
+---
+
+## Features
+
+- Applicant registration and application submission.
+- Interview scheduling and decision tracking.
+- Role-based access for applicants, interviewers, and managers.
+- Real-time updates and status tracking.
+
+---
 
 ## Getting Started
 
-First, run the development server:
+### Development
+
+To run the project locally:
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+````
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+### Deployment
+
+The app is deployed on Vercel and accessible here:
+[A2SV Application Platform](https://a2sv-application-platform4.vercel.app/)
+
+---
+
+## Technologies Used
+
+* Next.js (React framework)
+* TypeScript
+* Tailwind CSS (for styling)
+* Vercel (deployment platform)
+
+---
+
+## How to Contribute
+
+* Fork the repo and create a new branch for your feature or fix.
+* Submit a pull request with a clear description.
+* Report issues and suggest improvements.
+
+---
+
+## Contact
+
+For questions or feedback, contact the project maintainer or team.
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Important:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Make sure the file is named `README.md` (not `.txt` or anything else).
+- Use a text editor like VSCode, Sublime Text, or even GitHub’s online editor to create/edit this file.
+- When you push this file to your GitHub repo root, GitHub will automatically render it with all the formatting.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+If you want, I can help you generate the file ready to upload, just tell me!
+```
