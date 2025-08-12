@@ -15,7 +15,7 @@ This is a web platform built to manage and facilitate applications, interviews, 
 ## Features
 
 - Applicant registration and application submission.
-- Interview scheduling and decision tracking.
+- Application review and decision tracking.
 - Role-based access for applicants, interviewers, and managers.
 - Real-time updates and status tracking.
 
@@ -62,17 +62,3 @@ The app is deployed on Vercel and accessible here:
 
 For questions or feedback, contact the project maintainer or team.
 
-```
-
----
-
-### Important:
-
-- Make sure the file is named `README.md` (not `.txt` or anything else).
-- Use a text editor like VSCode, Sublime Text, or even GitHub’s online editor to create/edit this file.
-- When you push this file to your GitHub repo root, GitHub will automatically render it with all the formatting.
-
----
-
-If you want, I can help you generate the file ready to upload, just tell me!
-```
